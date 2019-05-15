@@ -16,7 +16,7 @@ Hardware consists of:
 8. DC 2,1mm DC SOCKET WITH PIPE ( <a href="https://www.ultra-orienteering.drumetiimontane.ro/download/imagini/PRIZA-DC-2-1-MM-5-5-MM-PANOU.jpg">see the image</a> )
 9. SWITCH 1x16A ON-OFF ( <a href="https://www.ultra-orienteering.drumetiimontane.ro/download/imagini/INTRERUPATOR-1X16A-ON-OFF.jpg">see the image</a> )
 
-It is loosely based on popular orienteering systems, and it's best used for orienteering, trekking, and other sports in which timing on several controls are needed.
+It is based on popular orienteering systems, and it's best used for orienteering, trekking, and other sports in which timing on several controls are needed.
 
 ### Printer Scheme
 
@@ -34,11 +34,11 @@ It is loosely based on popular orienteering systems, and it's best used for orie
 
 <b>IMPORTANT: When you compile, please unplug the  RX / TX pins.</b>
 
-To configure those Check Points you will use Orientare.exe from CheckPointSoftware\Orientare\bin\Release
+To configure those Check Points use Orientare.exe from CheckPointSoftware\Orientare\bin\Release
 
 Open Orientare.exe and configure your station with MODE > READOUT and press SET to apply.
 
-Remember to select where do you want to Save the files on your computer using "File" button or the software will stop running.
+Remember to select where you want to Save the files on your computer using "File" button or the software will stop running.
 
 
 ### How we made it
